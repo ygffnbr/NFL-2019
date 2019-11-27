@@ -1,2 +1,0 @@
-# NFL-2019
-NFL 2019 Teams
